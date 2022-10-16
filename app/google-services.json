@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031649928681",
+    "project_id": "bhagwadgita-93e0f",
+    "storage_bucket": "bhagwadgita-93e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031649928681:android:73457a6deb1ccfa30bd778",
+        "android_client_info": {
+          "package_name": "com.example.bhagwadgita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031649928681-f99t3es0o5k4b68jdu2q1d7emu9a1jjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgIcHiIOGnnxMjd-xD3fkZcSN_rtaZkSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031649928681-f99t3es0o5k4b68jdu2q1d7emu9a1jjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

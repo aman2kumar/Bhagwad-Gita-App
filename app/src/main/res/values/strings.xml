@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">BhagwadGita</string>
+    <string name="shloka">Shloka</string>
+
+    <array name="chapter_nums">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+        <item>Chapter 5</item>
+        <item>Chapter 6</item>
+        <item>Chapter 7</item>
+        <item>Chapter 8</item>
+        <item>Chapter 9</item>
+        <item>Chapter 10</item>
+        <item>Chapter 11</item>
+        <item>Chapter 12</item>
+        <item>Chapter 13</item>
+        <item>Chapter 14</item>
+        <item>Chapter 15</item>
+        <item>Chapter 16</item>
+        <item>Chapter 17</item>
+        <item>Chapter 18</item>
+    </array>
+
+    <array name="chapter_names">
+        <item>(Yoga of Arjuna\'s Despondency)</item>
+        <item>(Yoga of Knowledge)</item>
+        <item>(Yoga of Action)</item>
+        <item>(Yoga of Wisdom)</item>
+        <item>(Yoga of the Renunciation of Action)</item>
+        <item>(Yoga of Meditation)</item>
+        <item>(Yoga of Wisdom and Knowledge)</item>
+        <item>(Yoga of the Imperishable Absolute)</item>
+        <item>(Yoga of the Royal Wisdom and the Royal Secret)</item>
+        <item>(Yoga of Divine Manifestation)</item>
+        <item>(Yoga of the Vision of the Lord\'s All-Form)</item>
+        <item>(Yoga of Devotion)</item>
+        <item>(Yoga of the Distinction between the Field and the Field Knower)</item>
+        <item>(Yoga of the Distinction between the Triple Qualities)</item>
+        <item>(Yoga of the Supreme Person)</item>
+        <item>(Yoga of the Distinction between the Divine and Demoniac Destiny)</item>
+        <item>(Yoga of Distinction between the Triple Faith)</item>
+        <item>(Yoga of Renunciation and Liberation)</item>
+    </array>
+
+    <array name="chapter_titles">
+        <item>"\"Arjuna Vishad Yog\"</item>
+        <item>"\"Sankhya Yog\"</item>
+        <item>"\"Karma Yog\"</item>
+        <item>"\"Gyan Karma Sanyas Yog\"</item>
+        <item>"\"Karma Sanyas Yog\"</item>
+        <item>"\"Dhyan Yog\"</item>
+        <item>"\"Gyan Vigyan Yog\"</item>
+        <item>"\"Akshar Brahma Yog\"</item>
+        <item>"\"Raj Vidya Raj Guhya Yog\"</item>
+        <item>"\"Vibhuti Yog\"</item>
+        <item>"\"Vishwaroop Darshan Yog\"</item>
+        <item>"\"Bhakti Yog\"</item>
+        <item>"\"Kshetra Kshetragya Vibhag Yog\"</item>
+        <item>"\"Gunatray Vibhag Yog\"</item>
+        <item>"\"Purushottam Yog\"</item>
+        <item>"\"Daivasur Sampad Vibhag Yog\"</item>
+        <item>"\"Shraddha Traya Vibhag Yog\"</item>
+        <item>"\"Moksha Sanyas Yog\"</item>
+    </array>
+
+</resources>
